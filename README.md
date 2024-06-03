@@ -1,4 +1,4 @@
-Code of the experiments for "Fairness in Streaming Submodular Maximization Subject to a Knapsack Constraint" which was published at KDD 2024.
+> Code of the experiments for **Fairness in Streaming Submodular Maximization Subject to a Knapsack Constraint** that was published at KDD 2024.
 
 ## Application: Maximum Coverage in Social Networks
 
