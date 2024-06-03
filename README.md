@@ -1,5 +1,7 @@
 > Code of the experiments for **Fairness in Streaming Submodular Maximization Subject to a Knapsack Constraint** that was published at KDD 2024.
 
+For more information, contact: Shuang Cui (cuiblackmamba@foxmail.com)
+
 ## Application: Maximum Coverage in Social Networks
 
 * **Compilation**
